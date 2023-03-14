@@ -1,0 +1,1026 @@
+state,county,total_votes
+Delaware,Kent,87025
+Delaware,New Castle,287633
+Delaware,Sussex,129352
+Indiana,Adams,14209
+Indiana,Allen,169082
+Indiana,Bartholomew,36235
+Indiana,Benton,4114
+Indiana,Blackford,5350
+Indiana,Boone,38520
+Indiana,Brown,8981
+Indiana,Carroll,9510
+Indiana,Cass,15198
+Indiana,Clark,57869
+Indiana,Clay,12267
+Indiana,Clinton,12949
+Indiana,Crawford,4944
+Indiana,Daviess,11954
+Indiana,Dearborn,25383
+Indiana,Decatur,12235
+Indiana,DeKalb,19628
+Indiana,Delaware,48191
+Indiana,Dubois,21770
+Indiana,Elkhart,74425
+Indiana,Fayette,10136
+Indiana,Floyd,41802
+Indiana,Fountain,7986
+Indiana,Franklin,12000
+Indiana,Fulton,9147
+Indiana,Gibson,16161
+Indiana,Grant,27159
+Indiana,Greene,14784
+Indiana,Hamilton,193999
+Indiana,Hancock,42911
+Indiana,Harrison,20236
+Indiana,Hendricks,88505
+Indiana,Henry,21160
+Indiana,Howard,40630
+Indiana,Huntington,17829
+Indiana,Jackson,19238
+Indiana,Jasper,15475
+Indiana,Jay,8461
+Indiana,Jefferson,14697
+Indiana,Jennings,12251
+Indiana,Johnson,77618
+Indiana,Knox,16011
+Indiana,Kosciusko,35787
+Indiana,LaGrange,10633
+Indiana,Lake,219956
+Indiana,LaPorte,49392
+Indiana,Lawrence,21025
+Indiana,Madison,51806
+Indiana,Marion,390854
+Indiana,Marshall,19927
+Indiana,Martin,5144
+Indiana,Miami,14473
+Indiana,Monroe,63151
+Indiana,Montgomery,17198
+Indiana,Morgan,36159
+Indiana,Newton,6591
+Indiana,Noble,19190
+Indiana,Ohio,3164
+Indiana,Orange,8832
+Indiana,Owen,9904
+Indiana,Parke,7011
+Indiana,Perry,8722
+Indiana,Pike,6220
+Indiana,Porter,86524
+Indiana,Posey,13236
+Indiana,Pulaski,5806
+Indiana,Putnam,16597
+Indiana,Randolph,11070
+Indiana,Ripley,14271
+Indiana,Rush,7932
+Indiana,St. Joseph,115238
+Indiana,Scott,10161
+Indiana,Shelby,19991
+Indiana,Spencer,10769
+Indiana,Starke,10290
+Indiana,Steuben,16162
+Indiana,Sullivan,8994
+Indiana,Switzerland,4154
+Indiana,Tippecanoe,71448
+Indiana,Tipton,8116
+Indiana,Union,3483
+Indiana,Vanderburgh,77662
+Indiana,Vermillion,7481
+Indiana,Vigo,43594
+Indiana,Wabash,14573
+Indiana,Warren,4472
+Indiana,Warrick,33829
+Indiana,Washington,12139
+Indiana,Wayne,27679
+Indiana,Wells,14050
+Indiana,White,11166
+Indiana,Whitley,17556
+Missouri,Adair,10336
+Missouri,Andrew,9752
+Missouri,Atchison,2814
+Missouri,Audrain,10656
+Missouri,Barry,15598
+Missouri,Barton,6077
+Missouri,Bates,8416
+Missouri,Benton,10476
+Missouri,Bollinger,5983
+Missouri,Boone,91168
+Missouri,Buchanan,36598
+Missouri,Butler,18141
+Missouri,Caldwell,4695
+Missouri,Callaway,21144
+Missouri,Camden,24812
+Missouri,Cape Girardeau,40328
+Missouri,Carroll,4532
+Missouri,Carter,2897
+Missouri,Cass,57408
+Missouri,Cedar,7044
+Missouri,Chariton,4077
+Missouri,Christian,46839
+Missouri,Clark,3394
+Missouri,Clay,126569
+Missouri,Clinton,10888
+Missouri,Cole,39573
+Missouri,Cooper,8693
+Missouri,Crawford,10973
+Missouri,Dade,4119
+Missouri,Dallas,8104
+Missouri,Daviess,3911
+Missouri,DeKalb,4843
+Missouri,Dent,7142
+Missouri,Douglas,7000
+Missouri,Dunklin,10419
+Missouri,Franklin,53685
+Missouri,Gasconade,7923
+Missouri,Gentry,3237
+Missouri,Greene,141800
+Missouri,Grundy,4437
+Missouri,Harrison,3826
+Missouri,Henry,10788
+Missouri,Hickory,5080
+Missouri,Holt,2344
+Missouri,Howard,5091
+Missouri,Howell,18648
+Missouri,Iron,4592
+Missouri,Jackson,334055
+Missouri,Jasper,52352
+Missouri,Jefferson,116672
+Missouri,Johnson,23123
+Missouri,Knox,1856
+Missouri,Laclede,16792
+Missouri,Lafayette,17052
+Missouri,Lawrence,17909
+Missouri,Lewis,4609
+Missouri,Lincoln,29017
+Missouri,Linn,5886
+Missouri,Livingston,6757
+Missouri,McDonald,9052
+Missouri,Macon,7836
+Missouri,Madison,5676
+Missouri,Maries,4772
+Missouri,Marion,13348
+Missouri,Mercer,1779
+Missouri,Miller,12380
+Missouri,Mississippi,4756
+Missouri,Moniteau,7157
+Missouri,Monroe,4483
+Missouri,Montgomery,5772
+Missouri,Morgan,9487
+Missouri,New Madrid,7248
+Missouri,Newton,28392
+Missouri,Nodaway,9888
+Missouri,Oregon,4742
+Missouri,Osage,7539
+Missouri,Ozark,4870
+Missouri,Pemiscot,5735
+Missouri,Perry,9447
+Missouri,Pettis,19096
+Missouri,Phelps,19557
+Missouri,Pike,7695
+Missouri,Platte,58404
+Missouri,Polk,15072
+Missouri,Pulaski,14414
+Missouri,Putnam,2361
+Missouri,Ralls,5662
+Missouri,Randolph,10742
+Missouri,Ray,11651
+Missouri,Reynolds,3298
+Missouri,Ripley,5717
+Missouri,St. Charles,221992
+Missouri,St. Clair,5172
+Missouri,Ste. Genevieve,9484
+Missouri,St. Francois,28001
+Missouri,St. Louis,536446
+Missouri,Saline,9519
+Missouri,Schuyler,2005
+Missouri,Scotland,1984
+Missouri,Scott,17748
+Missouri,Shannon,4133
+Missouri,Shelby,3424
+Missouri,Stoddard,13426
+Missouri,Stone,18520
+Missouri,Sullivan,2471
+Missouri,Taney,26269
+Missouri,Texas,11519
+Missouri,Vernon,9185
+Missouri,Warren,18373
+Missouri,Washington,9972
+Missouri,Wayne,5878
+Missouri,Webster,18779
+Missouri,Worth,1107
+Missouri,Wright,8739
+Missouri,St. Louis city,134372
+Montana,Beaverhead,5665
+Montana,Big Horn,4794
+Montana,Blaine,3135
+Montana,Broadwater,4110
+Montana,Carbon,7101
+Montana,Carter,864
+Montana,Cascade,40039
+Montana,Chouteau,2992
+Montana,Custer,5883
+Montana,Daniels,1030
+Montana,Dawson,4837
+Montana,Deer Lodge,4891
+Montana,Fallon,1576
+Montana,Fergus,6534
+Montana,Flathead,60258
+Montana,Gallatin,71507
+Montana,Garfield,813
+Montana,Glacier,5719
+Montana,Golden Valley,504
+Montana,Granite,2102
+Montana,Hill,7223
+Montana,Jefferson,8191
+Montana,Judith Basin,1348
+Montana,Lake,16628
+Montana,Lewis and Clark,42509
+Montana,Liberty,1088
+Montana,Lincoln,11747
+Montana,McCone,1128
+Montana,Madison,6118
+Montana,Meagher,1118
+Montana,Mineral,2563
+Montana,Missoula,71986
+Montana,Musselshell,2881
+Montana,Park,11618
+Montana,Petroleum,351
+Montana,Phillips,2386
+Montana,Pondera,3005
+Montana,Powder River,1137
+Montana,Powell,3195
+Montana,Prairie,747
+Montana,Ravalli,28574
+Montana,Richland,5798
+Montana,Roosevelt,4033
+Montana,Rosebud,3784
+Montana,Sanders,7652
+Montana,Sheridan,2030
+Montana,Silver Bow,18827
+Montana,Stillwater,5744
+Montana,Sweet Grass,2459
+Montana,Teton,3706
+Montana,Toole,2123
+Montana,Treasure,464
+Montana,Valley,4272
+Montana,Wheatland,1068
+Montana,Wibaux,598
+Montana,Yellowstone,84109
+New Hampshire,Alton,3903
+New Hampshire,Barnstead,2922
+New Hampshire,Belmont,4052
+New Hampshire,Center Harbor,792
+New Hampshire,Gilford,5313
+New Hampshire,Gilmanton,2500
+New Hampshire,Laconia,8955
+New Hampshire,Meredith,4407
+New Hampshire,New Hampton,1539
+New Hampshire,Sanbornton,2045
+New Hampshire,Tilton,2025
+New Hampshire,Albany,449
+New Hampshire,Bartlett,2170
+New Hampshire,Brookfield,545
+New Hampshire,Chatham,244
+New Hampshire,Conway,5966
+New Hampshire,Eaton,309
+New Hampshire,Effingham,927
+New Hampshire,Freedom,1090
+New Hampshire,Harts Location,43
+New Hampshire,Jackson,760
+New Hampshire,Madison,1703
+New Hampshire,Moultonborough,3664
+New Hampshire,Ossipee,2519
+New Hampshire,Sandwich,1143
+New Hampshire,Tamworth,1768
+New Hampshire,Tuftonboro,1900
+New Hampshire,Wakefield,3292
+New Hampshire,Wolfeboro,4777
+New Hampshire,Alstead,1100
+New Hampshire,Chesterfield,2392
+New Hampshire,Dublin,1109
+New Hampshire,Fitzwilliam,1367
+New Hampshire,Gilsum,516
+New Hampshire,Harrisville,760
+New Hampshire,Hinsdale,1915
+New Hampshire,Jaffrey,3018
+New Hampshire,Keene,12929
+New Hampshire,Marlborough,1273
+New Hampshire,Marlow,496
+New Hampshire,Nelson,451
+New Hampshire,Richmond,719
+New Hampshire,Rindge,3782
+New Hampshire,Roxbury,144
+New Hampshire,Stoddard,919
+New Hampshire,Sullivan,412
+New Hampshire,Surry,563
+New Hampshire,Swanzey,3830
+New Hampshire,Troy,1117
+New Hampshire,Walpole,2347
+New Hampshire,Westmoreland,1133
+New Hampshire,Winchester,2019
+New Hampshire,Berlin,4065
+New Hampshire,Carroll,538
+New Hampshire,Clarksville,183
+New Hampshire,Colebrook,1074
+New Hampshire,Columbia,364
+New Hampshire,Dalton,536
+New Hampshire,Dixville,5
+New Hampshire,Dummer,184
+New Hampshire,Errol,223
+New Hampshire,Gorham,1672
+New Hampshire,Jefferson,662
+New Hampshire,Lancaster,1735
+New Hampshire,Milan,795
+New Hampshire,Millsfield,22
+New Hampshire,Northumberland,1056
+New Hampshire,Pittsburg,545
+New Hampshire,Randolph,277
+New Hampshire,Shelburne,254
+New Hampshire,Stark,295
+New Hampshire,Stewartstown,413
+New Hampshire,Stratford,300
+New Hampshire,Wentworth's Location,20
+New Hampshire,Whitefield,1321
+New Hampshire,Alexandria,1080
+New Hampshire,Ashland,1218
+New Hampshire,Bath,623
+New Hampshire,Benton,235
+New Hampshire,Bethlehem,1671
+New Hampshire,Bridgewater,861
+New Hampshire,Bristol,1871
+New Hampshire,Campton,2129
+New Hampshire,Canaan,2086
+New Hampshire,Dorchester,233
+New Hampshire,Easton,234
+New Hampshire,Ellsworth,78
+New Hampshire,Enfield,2765
+New Hampshire,Franconia,806
+New Hampshire,Grafton,784
+New Hampshire,Groton,358
+New Hampshire,Hanover,8521
+New Hampshire,Haverhill,2144
+New Hampshire,Hebron,523
+New Hampshire,Holderness,1483
+New Hampshire,Landaff,285
+New Hampshire,Lebanon,7949
+New Hampshire,Lincoln,923
+New Hampshire,Lisbon,797
+New Hampshire,Littleton,3115
+New Hampshire,Lyman,385
+New Hampshire,Lyme,1305
+New Hampshire,Monroe,544
+New Hampshire,Orange,196
+New Hampshire,Orford,823
+New Hampshire,Piermont,441
+New Hampshire,Plymouth,3415
+New Hampshire,Rumney,956
+New Hampshire,Sugar Hill,485
+New Hampshire,Thornton,1731
+New Hampshire,Warren,478
+New Hampshire,Waterville,374
+New Hampshire,Wentworth,620
+New Hampshire,Woodstock,858
+New Hampshire,Amherst,8137
+New Hampshire,Antrim,1584
+New Hampshire,Bedford,14739
+New Hampshire,Bennington,837
+New Hampshire,Brookline,3628
+New Hampshire,Deering,1158
+New Hampshire,Francestown,1152
+New Hampshire,Goffstown,10196
+New Hampshire,Greenfield,1010
+New Hampshire,Greenville,1054
+New Hampshire,Hancock,1298
+New Hampshire,Hillsborough,3276
+New Hampshire,Hollis,5825
+New Hampshire,Hudson,14641
+New Hampshire,Litchfield,5410
+New Hampshire,Lyndeborough,1138
+New Hampshire,Manchester,52606
+New Hampshire,Mason,949
+New Hampshire,Merrimack,16697
+New Hampshire,Milford,9092
+New Hampshire,Mont Vernon,1778
+New Hampshire,Nashua,45281
+New Hampshire,New Boston,3934
+New Hampshire,New Ipswich,3123
+New Hampshire,Pelham,8854
+New Hampshire,Peterborough,4400
+New Hampshire,Sharon,273
+New Hampshire,Temple,961
+New Hampshire,Weare,5538
+New Hampshire,Wilton,2473
+New Hampshire,Windsor,129
+New Hampshire,Allenstown,2325
+New Hampshire,Andover,1595
+New Hampshire,Boscawen,2040
+New Hampshire,Bow,5512
+New Hampshire,Bradford,1062
+New Hampshire,Canterbury,1754
+New Hampshire,Chichester,1753
+New Hampshire,Concord,23875
+New Hampshire,Danbury,725
+New Hampshire,Dunbarton,2030
+New Hampshire,Epsom,2927
+New Hampshire,Franklin,4178
+New Hampshire,Henniker,2711
+New Hampshire,Hill,635
+New Hampshire,Hooksett,8585
+New Hampshire,Hopkinton,4163
+New Hampshire,Loudon,3725
+New Hampshire,Newbury,1667
+New Hampshire,New London,3194
+New Hampshire,Northfield,2628
+New Hampshire,Pembroke,4325
+New Hampshire,Pittsfield,2095
+New Hampshire,Salisbury,925
+New Hampshire,Sutton,1351
+New Hampshire,Warner,1931
+New Hampshire,Webster,1241
+New Hampshire,Wilmot,958
+New Hampshire,Atkinson,5104
+New Hampshire,Auburn,3930
+New Hampshire,Brentwood,2914
+New Hampshire,Candia,2789
+New Hampshire,Chester,3469
+New Hampshire,Danville,2816
+New Hampshire,Deerfield,3221
+New Hampshire,Derry,17894
+New Hampshire,East Kingston,1692
+New Hampshire,Epping,4437
+New Hampshire,Exeter,10336
+New Hampshire,Fremont,2839
+New Hampshire,Greenland,2919
+New Hampshire,Hampstead,5897
+New Hampshire,Hampton,11502
+New Hampshire,Hampton Falls,1720
+New Hampshire,Kensington,1557
+New Hampshire,Kingston,4102
+New Hampshire,Londonderry,15873
+New Hampshire,New Castle,918
+New Hampshire,Newfields,1255
+New Hampshire,Newington,640
+New Hampshire,Newmarket,6004
+New Hampshire,Newton,2994
+New Hampshire,North Hampton,3484
+New Hampshire,Northwood,2881
+New Hampshire,Nottingham,3496
+New Hampshire,Plaistow,4617
+New Hampshire,Portsmouth,14701
+New Hampshire,Raymond,6000
+New Hampshire,Rye,4465
+New Hampshire,Salem,17841
+New Hampshire,Sandown,3975
+New Hampshire,Seabrook,4886
+New Hampshire,South Hampton,652
+New Hampshire,Stratham,5485
+New Hampshire,Windham,9900
+New Hampshire,Barrington,6004
+New Hampshire,Dover,19229
+New Hampshire,Durham,7810
+New Hampshire,Farmington,3433
+New Hampshire,Lee,2976
+New Hampshire,Madbury,1312
+New Hampshire,Middleton,1042
+New Hampshire,Milton,2566
+New Hampshire,New Durham,1868
+New Hampshire,Rochester,16907
+New Hampshire,Rollinsford,1736
+New Hampshire,Somersworth,6071
+New Hampshire,Strafford,2802
+New Hampshire,Acworth,569
+New Hampshire,Charlestown,2481
+New Hampshire,Claremont,5813
+New Hampshire,Cornish,1141
+New Hampshire,Croydon,513
+New Hampshire,Goshen,481
+New Hampshire,Grantham,2447
+New Hampshire,Langdon,412
+New Hampshire,Lempster,726
+New Hampshire,Newport,3138
+New Hampshire,Plainfield,1685
+New Hampshire,Springfield,889
+New Hampshire,Sunapee,2431
+New Hampshire,Unity,892
+New Hampshire,Washington,797
+North Carolina,Alamance,86091
+North Carolina,Alexander,20236
+North Carolina,Alleghany,6076
+North Carolina,Anson,11205
+North Carolina,Ashe,15814
+North Carolina,Avery,9458
+North Carolina,Beaufort,26315
+North Carolina,Bertie,9815
+North Carolina,Bladen,17125
+North Carolina,Brunswick,90175
+North Carolina,Buncombe,161569
+North Carolina,Burke,44602
+North Carolina,Cabarrus,117227
+North Carolina,Caldwell,42829
+North Carolina,Camden,5953
+North Carolina,Carteret,42695
+North Carolina,Caswell,12051
+North Carolina,Catawba,83425
+North Carolina,Chatham,48599
+North Carolina,Cherokee,16423
+North Carolina,Chowan,7784
+North Carolina,Clay,6893
+North Carolina,Cleveland,51308
+North Carolina,Columbus,26446
+North Carolina,Craven,53065
+North Carolina,Cumberland,147150
+North Carolina,Currituck,16147
+North Carolina,Dare,24232
+North Carolina,Davidson,88514
+North Carolina,Davie,25311
+North Carolina,Duplin,22715
+North Carolina,Durham,179914
+North Carolina,Edgecombe,25477
+North Carolina,Forsyth,201262
+North Carolina,Franklin,37357
+North Carolina,Gaston,115498
+North Carolina,Gates,5971
+North Carolina,Graham,4665
+North Carolina,Granville,31598
+North Carolina,Greene,8753
+North Carolina,Guilford,284486
+North Carolina,Halifax,25759
+North Carolina,Harnett,58293
+North Carolina,Haywood,36542
+North Carolina,Henderson,68371
+North Carolina,Hertford,10634
+North Carolina,Hoke,22016
+North Carolina,Hyde,2492
+North Carolina,Iredell,102371
+North Carolina,Jackson,21428
+North Carolina,Johnston,111362
+North Carolina,Jones,5525
+North Carolina,Lee,29008
+North Carolina,Lenoir,28409
+North Carolina,Lincoln,50217
+North Carolina,McDowell,23003
+North Carolina,Macon,20743
+North Carolina,Madison,13076
+North Carolina,Martin,12540
+North Carolina,Mecklenburg,567053
+North Carolina,Mitchell,9041
+North Carolina,Montgomery,12849
+North Carolina,Moore,58339
+North Carolina,Nash,52271
+North Carolina,New Hanover,131840
+North Carolina,Northampton,10109
+North Carolina,Onslow,72235
+North Carolina,Orange,84997
+North Carolina,Pamlico,7631
+North Carolina,Pasquotank,19897
+North Carolina,Pender,34169
+North Carolina,Perquimans,7484
+North Carolina,Person,21894
+North Carolina,Pitt,87573
+North Carolina,Polk,12358
+North Carolina,Randolph,73316
+North Carolina,Richmond,20763
+North Carolina,Robeson,47188
+North Carolina,Rockingham,47809
+North Carolina,Rowan,73408
+North Carolina,Rutherford,34429
+North Carolina,Sampson,28618
+North Carolina,Scotland,14775
+North Carolina,Stanly,33939
+North Carolina,Stokes,25702
+North Carolina,Surry,36638
+North Carolina,Swain,7068
+North Carolina,Transylvania,20404
+North Carolina,Tyrrell,1817
+North Carolina,Union,131011
+North Carolina,Vance,20999
+North Carolina,Wake,631830
+North Carolina,Warren,10293
+North Carolina,Washington,6205
+North Carolina,Watauga,32220
+North Carolina,Wayne,55537
+North Carolina,Wilkes,35464
+North Carolina,Wilson,40735
+North Carolina,Yadkin,19923
+North Carolina,Yancey,11352
+North Dakota,Adams,1269
+North Dakota,Barnes,5565
+North Dakota,Benson,1961
+North Dakota,Billings,635
+North Dakota,Bottineau,3471
+North Dakota,Bowman,1657
+North Dakota,Burke,1155
+North Dakota,Burleigh,50753
+North Dakota,Cass,86053
+North Dakota,Cavalier,2020
+North Dakota,Dickey,2424
+North Dakota,Divide,1202
+North Dakota,Dunn,2338
+North Dakota,Eddy,1261
+North Dakota,Emmons,2009
+North Dakota,Foster,1778
+North Dakota,Golden Valley,1026
+North Dakota,Grand Forks,30970
+North Dakota,Grant,1381
+North Dakota,Griggs,1250
+North Dakota,Hettinger,1312
+North Dakota,Kidder,1460
+North Dakota,LaMoure,2219
+North Dakota,Logan,1076
+North Dakota,McHenry,3003
+North Dakota,McIntosh,1455
+North Dakota,McKenzie,5419
+North Dakota,McLean,5536
+North Dakota,Mercer,4812
+North Dakota,Morton,16619
+North Dakota,Mountrail,4165
+North Dakota,Nelson,1777
+North Dakota,Oliver,1066
+North Dakota,Pembina,3331
+North Dakota,Pierce,2128
+North Dakota,Ramsey,5372
+North Dakota,Ransom,2454
+North Dakota,Renville,1319
+North Dakota,Richland,7812
+North Dakota,Rolette,3804
+North Dakota,Sargent,2070
+North Dakota,Sheridan,812
+North Dakota,Sioux,1186
+North Dakota,Slope,427
+North Dakota,Stark,15050
+North Dakota,Steele,1088
+North Dakota,Stutsman,9959
+North Dakota,Towner,1174
+North Dakota,Traill,4136
+North Dakota,Walsh,4783
+North Dakota,Ward,28246
+North Dakota,Wells,2374
+North Dakota,Williams,14334
+Utah,Beaver,3100
+Utah,Box Elder,27023
+Utah,Cache,57534
+Utah,Carbon,9369
+Utah,Daggett,619
+Utah,Davis,169814
+Utah,Duchesne,8524
+Utah,Emery,4865
+Utah,Garfield,2732
+Utah,Grand,5185
+Utah,Iron,24890
+Utah,Juab,5865
+Utah,Kane,4180
+Utah,Millard,6160
+Utah,Morgan,6512
+Utah,Piute,871
+Utah,Rich,1363
+Utah,Salt Lake,540966
+Utah,San Juan,6877
+Utah,Sanpete,12625
+Utah,Sevier,10362
+Utah,Summit,26086
+Utah,Tooele,31506
+Utah,Uintah,15303
+Utah,Utah,284286
+Utah,Wasatch,17579
+Utah,Washington,90457
+Utah,Wayne,1621
+Utah,Weber,111403
+Vermont,Jamaica,581
+Vermont,Jay,294
+Vermont,Jericho,3662
+Vermont,Johnson,1589
+Vermont,Kirby,329
+Vermont,Landgrove,135
+Vermont,Leicester,542
+Vermont,Lemington,50
+Vermont,Lincoln,959
+Vermont,Londonderry,1118
+Vermont,Barnet,1095
+Vermont,Lowell,487
+Vermont,Ludlow,1237
+Vermont,Lunenburg,633
+Vermont,Lyndon,2440
+Vermont,Maidstone,145
+Vermont,Manchester,2785
+Vermont,Marlboro,646
+Vermont,Marshfield,964
+Vermont,Mendon,780
+Vermont,Middlebury,4331
+Vermont,Barre,3807
+Vermont,Middlesex,1243
+Vermont,Middletown Springs,549
+Vermont,Milton,6168
+Vermont,Monkton,1403
+Vermont,Montgomery,756
+Vermont,Montpelier,5185
+Vermont,Moretown,1188
+Vermont,Morgan,401
+Vermont,Morristown,3197
+Vermont,Mount Holly,848
+Vermont,Barre Town,4766
+Vermont,Mount Tabor,117
+Vermont,Newark,346
+Vermont,Newbury,1228
+Vermont,Newfane,1141
+Vermont,New Haven,1172
+Vermont,Newport,1842
+Vermont,Newport Town,776
+Vermont,Northfield,2465
+Vermont,North Hero,705
+Vermont,Norton,108
+Vermont,Barton,1296
+Vermont,Norwich,2570
+Vermont,Orange,612
+Vermont,Orwell,752
+Vermont,Panton,420
+Vermont,Pawlet,887
+Vermont,Peacham,519
+Vermont,Peru,300
+Vermont,Pittsfield,332
+Vermont,Pittsford,1737
+Vermont,Plainfield,814
+Vermont,Belvidere,176
+Vermont,Plymouth,371
+Vermont,Pomfret,679
+Vermont,Poultney,1664
+Vermont,Pownal,1778
+Vermont,Proctor,955
+Vermont,Putney,1515
+Vermont,Randolph,2586
+Vermont,Reading,445
+Vermont,Readsboro,431
+Vermont,Richford,942
+Vermont,Bennington,7096
+Vermont,Richmond,2941
+Vermont,Ripton,369
+Vermont,Rochester,732
+Vermont,Rockingham,2519
+Vermont,Roxbury,433
+Vermont,Royalton,1486
+Vermont,Rupert,437
+Vermont,Rutland,8000
+Vermont,Rutland Town,2486
+Vermont,Ryegate,648
+Vermont,Benson,583
+Vermont,St. Albans,3057
+Vermont,St. Albans Town,3794
+Vermont,St. George,453
+Vermont,St. Johnsbury,3377
+Vermont,Salisbury,678
+Vermont,Sandgate,253
+Vermont,Searsburg,64
+Vermont,Shaftsbury,2139
+Vermont,Sharon,894
+Vermont,Sheffield,374
+Vermont,Berkshire,711
+Vermont,Shelburne,5419
+Vermont,Sheldon,1015
+Vermont,Killington,836
+Vermont,Shoreham,742
+Vermont,Shrewsbury,690
+Vermont,South Burlington,12670
+Vermont,South Hero,1309
+Vermont,Springfield,4516
+Vermont,Stamford,539
+Vermont,Stannard,114
+Vermont,Berlin,1536
+Vermont,Starksboro,1023
+Vermont,Stockbridge,477
+Vermont,Stowe,3406
+Vermont,Strafford,800
+Vermont,Stratton,190
+Vermont,Sudbury,388
+Vermont,Sunderland,652
+Vermont,Sutton,539
+Vermont,Swanton,3228
+Vermont,Thetford,1910
+Vermont,Bethel,1147
+Vermont,Addison,870
+Vermont,Tinmouth,341
+Vermont,Topsham,646
+Vermont,Townshend,769
+Vermont,Troy,795
+Vermont,Tunbridge,863
+Vermont,Underhill,2224
+Vermont,Vergennes,1481
+Vermont,Vernon,1300
+Vermont,Vershire,428
+Vermont,Victory,55
+Vermont,Bloomfield,130
+Vermont,Waitsfield,1248
+Vermont,Walden,586
+Vermont,Wallingford,1298
+Vermont,Waltham,326
+Vermont,Wardsboro,492
+Vermont,Warren,1264
+Vermont,Washington,609
+Vermont,Waterbury,3498
+Vermont,Waterford,831
+Vermont,Waterville,454
+Vermont,Bolton,780
+Vermont,Weathersfield,1792
+Vermont,Wells,742
+Vermont,West Fairlee,357
+Vermont,Westfield,349
+Vermont,Westford,1425
+Vermont,West Haven,154
+Vermont,Westminster,1789
+Vermont,Westmore,240
+Vermont,Weston,456
+Vermont,West Rutland,1167
+Vermont,Bradford,1494
+Vermont,West Windsor,841
+Vermont,Weybridge,612
+Vermont,Wheelock,452
+Vermont,Whiting,218
+Vermont,Whitingham,775
+Vermont,Williamstown,1862
+Vermont,Williston,6873
+Vermont,Wilmington,1156
+Vermont,Windham,282
+Vermont,Windsor,1890
+Vermont,Braintree,717
+Vermont,Winhall,674
+Vermont,Winooski,3701
+Vermont,Wolcott,923
+Vermont,Woodbury,588
+Vermont,Woodford,196
+Vermont,Woodstock,2109
+Vermont,Worcester,624
+Vermont,Brandon,2184
+Vermont,Brattleboro,6663
+Vermont,Bridgewater,601
+Vermont,Bridport,739
+Vermont,Brighton,619
+Vermont,Bristol,2245
+Vermont,Albany,540
+Vermont,Brookfield,852
+Vermont,Brookline,329
+Vermont,Brownington,490
+Vermont,Brunswick,65
+Vermont,Burke,924
+Vermont,Burlington,22218
+Vermont,Cabot,892
+Vermont,Calais,1148
+Vermont,Cambridge,2199
+Vermont,Canaan,498
+Vermont,Alburgh,1079
+Vermont,Castleton,2161
+Vermont,Cavendish,792
+Vermont,Charleston,541
+Vermont,Charlotte,2886
+Vermont,Chelsea,730
+Vermont,Chester,1772
+Vermont,Chittenden,853
+Vermont,Clarendon,1469
+Vermont,Colchester,9594
+Vermont,Concord,630
+Vermont,Andover,365
+Vermont,Corinth,830
+Vermont,Cornwall,850
+Vermont,Coventry,568
+Vermont,Craftsbury,774
+Vermont,Danby,755
+Vermont,Danville,1469
+Vermont,Derby,2515
+Vermont,Dorset,1413
+Vermont,Dover,950
+Vermont,Dummerston,1357
+Vermont,Arlington,1485
+Vermont,Duxbury,914
+Vermont,East Haven,140
+Vermont,East Montpelier,1764
+Vermont,Eden,634
+Vermont,Elmore,607
+Vermont,Enosburgh,1274
+Vermont,Essex,13414
+Vermont,Fairfax,2694
+Vermont,Fairfield,1140
+Vermont,Fair Haven,1308
+Vermont,Athens,214
+Vermont,Fairlee,629
+Vermont,Fayston,971
+Vermont,Ferrisburg,1830
+Vermont,Fletcher,824
+Vermont,Franklin,763
+Vermont,Georgia,2917
+Vermont,Glover,666
+Vermont,Goshen,129
+Vermont,Grafton,411
+Vermont,Granby,43
+Vermont,Bakersfield,696
+Vermont,Grand Isle,1409
+Vermont,Granville,169
+Vermont,Greensboro,491
+Vermont,Groton,549
+Vermont,Guildhall,174
+Vermont,Guilford,1354
+Vermont,Halifax,492
+Vermont,Hancock,171
+Vermont,Hardwick,1577
+Vermont,Hartford,6264
+Vermont,Baltimore,143
+Vermont,Hartland,2198
+Vermont,Highgate,1726
+Vermont,Hinesburg,3084
+Vermont,Holland,358
+Vermont,Hubbardton,427
+Vermont,Huntington,1405
+Vermont,Hyde Park,1731
+Vermont,Ira,262
+Vermont,Irasburg,638
+Vermont,Isle La Motte,349
+Vermont,Barnard,669
+Washington,Adams,5862
+Washington,Asotin,11951
+Washington,Benton,103033
+Washington,Chelan,43306
+Washington,Clallam,49264
+Washington,Clark,275403
+Washington,Columbia,2495
+Washington,Cowlitz,60280
+Washington,Douglas,21308
+Washington,Ferry,4368
+Washington,Franklin,32404
+Washington,Garfield,1489
+Washington,Grant,37680
+Washington,Grays Harbor,38441
+Washington,Island,53925
+Washington,Jefferson,24792
+Washington,King,1210507
+Washington,Kitsap,158672
+Washington,Kittitas,26364
+Washington,Klickitat,13560
+Washington,Lewis,45309
+Washington,Lincoln,7033
+Washington,Mason,37303
+Washington,Okanogan,21282
+Washington,Pacific,14064
+Washington,Pend Oreille,8553
+Washington,Pierce,464081
+Washington,San Juan,13197
+Washington,Skagit,73423
+Washington,Skamania,7312
+Washington,Snohomish,438796
+Washington,Spokane,295430
+Washington,Stevens,28430
+Washington,Thurston,168134
+Washington,Wahkiakum,2981
+Washington,Walla Walla,31261
+Washington,Whatcom,138620
+Washington,Whitman,21126
+Washington,Yakima,96193
+West Virginia,Barbour,6677
+West Virginia,Berkeley,51535
+West Virginia,Boone,9012
+West Virginia,Braxton,5664
+West Virginia,Brooke,10656
+West Virginia,Cabell,37360
+West Virginia,Calhoun,2971
+West Virginia,Clay,3365
+West Virginia,Doddridge,3101
+West Virginia,Fayette,16862
+West Virginia,Gilmer,2662
+West Virginia,Grant,5509
+West Virginia,Greenbrier,15801
+West Virginia,Hampshire,10086
+West Virginia,Hancock,13800
+West Virginia,Hardy,6331
+West Virginia,Harrison,30465
+West Virginia,Jackson,13508
+West Virginia,Jefferson,27703
+West Virginia,Kanawha,82244
+West Virginia,Lewis,7457
+West Virginia,Lincoln,7830
+West Virginia,Logan,13026
+West Virginia,McDowell,6527
+West Virginia,Marion,25794
+West Virginia,Marshall,14080
+West Virginia,Mason,11203
+West Virginia,Mercer,25134
+West Virginia,Mineral,12872
+West Virginia,Mingo,10022
+West Virginia,Monongalia,42072
+West Virginia,Monroe,6490
+West Virginia,Morgan,8695
+West Virginia,Nicholas,10630
+West Virginia,Ohio,19898
+West Virginia,Pendleton,3659
+West Virginia,Pleasants,3491
+West Virginia,Pocahontas,4008
+West Virginia,Preston,14572
+West Virginia,Putnam,28501
+West Virginia,Raleigh,33106
+West Virginia,Randolph,12200
+West Virginia,Ritchie,4283
+West Virginia,Roane,5763
+West Virginia,Summers,5585
+West Virginia,Taylor,7383
+West Virginia,Tucker,3844
+West Virginia,Tyler,3922
+West Virginia,Upshur,10221
+West Virginia,Wayne,16947
+West Virginia,Webster,3402
+West Virginia,Wetzel,6667
+West Virginia,Wirt,2653
+West Virginia,Wood,38762
+West Virginia,Wyoming,8592

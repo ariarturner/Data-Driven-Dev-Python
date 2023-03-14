@@ -1,0 +1,6 @@
+NY
+N1 Niagara Falls
+N2 Buffalo
+N3 Syracuse
+N4 Albany
+N5 New York

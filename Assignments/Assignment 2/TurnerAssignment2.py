@@ -6,12 +6,6 @@ Brief description: This is a program that locates the first occurrence of a keyw
 the sentence in which the keyword appears.
 '''
 
-'''
-Created on 1/23/2019
-@author: DRUDE
-Starting code for PA2. Place the rest of the code below the comment line 
-'''
-
 def fromFile(file):
     file = open(file, 'r')
     line = file.read() 
@@ -23,8 +17,6 @@ textOrig = fromFile(txtfile)
 print('Contents of file',txtfile)
 print()
 print (textOrig)
-
-# your code goes here
 
 
 '''

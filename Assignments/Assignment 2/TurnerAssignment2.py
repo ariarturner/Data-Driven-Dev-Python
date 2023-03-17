@@ -2,7 +2,7 @@
 Created on Feb 8, 2021
 @author: Aria Turner
 Title: Assignment 2
-Brief description: This is a program that locates the first occurrence of a keyword in a text and outputs 
+Description: This is a program that locates the first occurrence of a keyword in a text and outputs 
 the sentence in which the keyword appears.
 '''
 

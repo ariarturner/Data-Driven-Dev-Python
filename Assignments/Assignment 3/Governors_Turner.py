@@ -1,6 +1,8 @@
 '''
-Created on <Enter a start date>
-@author: <Enter Your Full Name>
+Created on Mar 13, 2021
+@author: Aria Turner
+Title: Assignment 3
+Description: output governor election results
 '''
 import csv
 
@@ -25,8 +27,7 @@ def processDataFiles():
     return allStatesList, totalVoteCountyList, totalVoteStateList
 
 '''
-All our required methods for this program
-should be started here. The required methods are:
+The required methods are:
 whichState()
 whichCounty()
 overallStateResults()

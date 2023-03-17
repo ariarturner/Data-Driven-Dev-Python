@@ -1,6 +1,8 @@
 '''
-Created on 4/5/2021
+Created on Apr 5, 2021
 @author: Aria Turner
+Title: Assignment 5
+Description: output presidential election results
 '''
 import pandas as pd
 import csv
@@ -19,13 +21,12 @@ and state, county and total_votes from president_county.csv (dfpres2).
 def createPresidentialDFs():
     dfPres1 = pd.read_csv('president_county_candidate.csv', usecols=['state', 'county', 'candidate', 'party', 'total_votes'])
     dfPres2 = pd.read_csv('president_county.csv', usecols=['state', 'county', 'total_votes'])  
-    #print(dfPres1)  # Remove this line when your code is complete and working
-    #print(dfPres2)  # Remove this line when your code is complete and working
+    #print(dfPres1)  # For debugging
+    #print(dfPres2)  # For debugging
     return dfPres1, dfPres2
 
 '''
-Read in the data from the Electoral_votes.csv file and creates a dictionary called eVotes. This can be used in your 
-program code.
+Read in the data from the Electoral_votes.csv file and creates a dictionary called eVotes.
 '''
 def createElectoralDict():
     eVotes = {}
@@ -35,18 +36,17 @@ def createElectoralDict():
         for data in reader:
             key, value = data
             eVotes[key] = int(value)
-    #print(eVotes)  # Remove this line when your code is complete and working
+    #print(eVotes)  # For debugging
     return eVotes
 
 '''
-Creates a set that contains all the valid state names that will be used to validate the users state input. This set 
-can also be used for other purposes in your code
+Creates a set that contains all the valid state names that will be used to validate the users state input.
 '''    
 def createValidStates(dfPres1):
     validStates = set()
     for state in dfPres1['state']:
         validStates.add(state)
-    #print(validStates)  # Remove this line when your code is complete and working
+    #print(validStates)  # For debugging
     return validStates
 
 '''
@@ -66,11 +66,6 @@ def validateState(validStates):
         else:
             #if state is not in state set, then return error message and restart loop to ask for valid state
             print("Invalid state, enter a valid state.")
-
-
-'''
-Place the rest of your code below to accomplish the requirements of project assignment 5.
-'''
             
 '''
 create a smaller data frame that only includes counts for Republican and Democratic candidates

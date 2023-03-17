@@ -1,9 +1,8 @@
 '''
 Created on Jan 26, 2021
-
 @author: Aria Turner
-
-Purpose: calculate facts about jet fuel
+Title: Assignment 1
+Description: calculate facts about jet fuel
 
 '''
 
